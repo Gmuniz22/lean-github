@@ -1,2 +1,2 @@
 # lean-github
-this repository is to learn Github
+this repository is to get started with Github. Happy learning !
